@@ -1,2 +1,2 @@
 # FoundDSR
-FoundDSR: A Generalizable Foundation Model with Guided 2D Gaussian Splatting for Depth Super-Resolution
+The code and pretrained weights will be released immediately upon acceptance of the paper.
